@@ -1,0 +1,14 @@
+.Dictionary .search-form {
+  margin-right: 30px;
+}
+
+.Dictionary .search-button {
+  display: inline;
+  background: #685242;
+  color: #f6ddbd;
+}
+
+.Dictionary .search-button:hover {
+  background: #f6ddbd;
+  color: #685242;
+}
