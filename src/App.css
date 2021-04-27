@@ -1,3 +1,6 @@
+body {
+  background: burlywood;
+}
 .App {
   text-align: center;
   margin: 30px;
@@ -7,14 +10,10 @@
   font-weight: bold;
   font-size: 30px;
   margin-bottom: 30px;
+  color: #2c1401;
 }
 
 .App-footer {
   font-size: small;
   margin: 30px 0;
-}
-
-.play-icon {
-  color: rgb(129, 62, 62);
-  font-size: 20px;
 }

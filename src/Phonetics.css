@@ -1,0 +1,16 @@
+.Phonetics .play-icon {
+  color: rgb(129, 62, 62);
+  font-size: 20px;
+  padding: 5px;
+  border-radius: 10px;
+}
+
+.Phonetics .play-icon:hover {
+  cursor: pointer;
+  color: #f6ddbd;
+  background: rgb(129, 62, 62);
+}
+
+.Phonetics .text {
+  opacity: 0.7;
+}

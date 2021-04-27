@@ -1,14 +1,25 @@
+.Dictionary h1 {
+  color: #2c1401;
+  font-size: 22px;
+  font-weight: bold;
+  margin-bottom: 20px;
+}
+
 .Dictionary .search-form {
   margin-right: 30px;
+  width: 100%;
 }
 
-.Dictionary .search-button {
-  display: inline;
-  background: #685242;
-  color: #f6ddbd;
-}
-
-.Dictionary .search-button:hover {
+.Dictionary section {
   background: #f6ddbd;
-  color: #685242;
+  text-align: left;
+  margin: 10px 0;
+  padding: 30px;
+  border-radius: 8px;
+  box-shadow: 5px 5px 2px rgba(0, 0, 0, 0.1);
+}
+
+.Dictionary .hint {
+  font-size: 12px;
+  margin-top: 5px;
 }

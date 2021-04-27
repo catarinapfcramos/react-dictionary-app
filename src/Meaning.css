@@ -1,0 +1,10 @@
+.Meaning h3 {
+  font-style: italic;
+  color: #2c1401;
+}
+
+.Meaning .example {
+  font-style: italic;
+  opacity: 0.8;
+  margin-top: 10px;
+}
